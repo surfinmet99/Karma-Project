@@ -575,3 +575,66 @@ body {
   margin: 2.5rem 0px 1.875rem;
   width: 259.781px;
 }
+
+.social {
+  background-color: #fff;
+  overflow: auto;
+  padding-bottom: 9.375rem;
+  text-align: center;
+}
+
+.social .content {
+  padding: 0 0.938rem;
+  margin: 0 auto;
+  min-width: 37.5rem;
+}
+
+.social hr {
+  border: 0;
+  border-top: 1px solid #eaebec;
+  margin: 1.313rem 15rem;
+}
+
+.social h5 {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.social ul {
+  list-style: none;
+  width: 779.391px;
+  height: 80px;
+  margin: 0 auto;
+  padding-left: 0;
+}
+
+.social .icons > li {
+  border-radius: 1.25rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: inline-block;
+  margin: 1.25rem 5px;
+  border: 1px solid #eaebec;
+  padding: 0.625rem 0;
+  text-align: center;
+}
+
+.social .fa-twitter {
+  color: #55acee;
+}
+
+.social .fa-facebook {
+  color: #4c66a4;
+}
+
+.social .fa-instagram {
+  color: #3f729b;
+}
+
+.social .copy {
+  font-size: 0.9rem;
+  font-weight: 300;
+  color: #838994;
+}
